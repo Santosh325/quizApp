@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="question_declaration">The (us) declartion of independence was adopted in 1776.</string>
+    <string name="question_nepal">Nepal is located in Europe</string>
+    <string name="question_ronaldo">Ronaldo plays from England</string>
+    <string name="question_messi">Messi plays from Argentina</string>
+    <string name="question_android">python language is used for android</string>
+    <string name="question_flutter">flutter is the framework of dart</string>
+    <string name="wrong_answer">That\'s wrong</string>
+    <string name="true_answer">That\s Correct</string>
+    <string name="true_text">true</string>
+    <string name="false_text">false</string>
+    <string name="next_text">next</string>
+
+</resources>
